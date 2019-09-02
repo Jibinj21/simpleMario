@@ -2,4 +2,19 @@ body{
     background-color: aqua;
     padding: 0;
     color: crimson;
+    
+}
+h1{
+    padding: 20px;
+    text-align: center;
+    background-color: bisque;
+
+}
+
+h2{
+    position: relative;
+    font-size: 35px;
+    padding: 10px;
+    text-decoration: none;
+    text-align: center;
 }
